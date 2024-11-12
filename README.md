@@ -1,5 +1,5 @@
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/tu-linkedin) • [Portafolio](https://www.tuportafolio.com)
+[LinkedIn](https://www.linkedin.com/in/oussama-atifi/) • [Portafolio](https://www.oussamaati.dev)
 
 </div>
